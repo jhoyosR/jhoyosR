@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Juan and I am currently studying to become a software engineer 👋
 
-<!--
-**jhoyosR/jhoyosR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently:
+- 🧩 Working on improving my programming logic.
+- 🌱 Learning more about Python and JavaScript.
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
+  **Email:** juanhoyos1704@cue.edu.co
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies and Tools
+- **Languages:** JavaScript, Python, Java.
+- **Frameworks:** Flask, SpringBoot
+- **Databases:** MySQL
+
+  ## 📁 Featured Projects
+- [Project 1](https://github.com/jhoyosR/servicioVikingos) - Basic API of the Vikings series using SpringBoot and Thymeleaf, with a database hosted on Clever Cloud.
+
+- ⚡ **Fun fact:** I’m a huge fan of movies and love watching them.
