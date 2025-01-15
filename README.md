@@ -5,7 +5,7 @@
 - 🌱 Learning more about Python and JavaScript.
 
 ## 📫 How to reach me:
-  **Email:** juanhoyos1704@cue.edu.co
+  - **Email:** juanhoyos1704@cue.edu.co
 
 ## 🛠️ Technologies and Tools
 - **Languages:** JavaScript, Python, Java.
