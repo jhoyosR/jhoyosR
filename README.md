@@ -1,8 +1,7 @@
 ## Hey, I'm Juan and I am currently studying to become a software engineer 👋
 
 ## Currently:
-- 🧩 Working on improving my programming logic.
-- 🌱 Learning more about Python and JavaScript.
+- 🌱 Learning php using Laravel and Vue.js using Nuxt.js.
 
 ## 📫 How to reach me:
   - **Email:** juanhoyos1704@cue.edu.co
