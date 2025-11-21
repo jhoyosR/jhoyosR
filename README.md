@@ -1,7 +1,7 @@
 ## Hey, I'm Juan and I am currently studying to become a software engineer 👋
 
 ## Currently:
-- 🌱 Doing my internship in QSOFTING.
+- 🌱 Doing my internship.
 
 ## 📫 How to reach me:
   - **Email:** juanhoyos1704@cue.edu.co
@@ -14,4 +14,4 @@
   ## 📁 Featured Projects
 - [Project 1](https://github.com/jhoyosR/servicioVikingos) - Basic API of the Vikings series using SpringBoot and Thymeleaf, with a database hosted on Clever Cloud.
 
-- ⚡ **Fun fact:** I’m a huge fan of movies and love watching them.
+- ⚡ **Fun fact:** I’m a huge fan of chess and movies and love watching them.
