@@ -1,7 +1,7 @@
 ## Hey, I'm Juan and I am currently studying to become a software engineer 👋
 
 ## Currently:
-- 🌱 Doing my internship.
+- 🌱 Doing my internship, learning Docker and GitHub Actions CI/CD pipelines.
 
 ## 📫 How to reach me:
   - **Email:** juanhoyos1704@cue.edu.co
