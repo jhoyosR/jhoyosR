@@ -4,7 +4,7 @@
 - 🌱 Doing a university internship as part of my degree.
 
 ## 📫 How to reach me:
-  - **Email:** juanhoyos1704@cue.edu.co
+  - **Email:** juanhoyos1704@gmail.com
 
 ## 🛠️ Technologies and Tools
 - **Languages:** TypeScript, Java, PHP.
